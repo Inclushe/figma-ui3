@@ -1,0 +1,6 @@
+[{
+  "id" : 1,
+  "priority": 1,
+  "action": { "type": "redirect", "redirect": { "extensionPath": "/src/format.js" } },
+  "condition": { "regexFilter": "\\/figma_app-.*\\.min\\.js\\.br$", "resourceTypes": ["script"] }
+}]
