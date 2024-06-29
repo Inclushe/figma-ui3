@@ -1,15 +1,14 @@
 {
   "manifest_version": 3,
   "name": "Enable UI3 Beta for Figma",
-  "version": "1.0",
+  "version": "1.0.1",
   "description": "Enables UI3 Beta for Figma for all users.",
   "icons": {
     "48": "icons/48x48.png"
   },
   "permissions": [
     "declarativeNetRequest",
-    "declarativeNetRequestWithHostAccess",
-    "declarativeNetRequestFeedback"
+    "declarativeNetRequestWithHostAccess"
   ],
   "declarative_net_request": {
     "rule_resources": [{
@@ -24,5 +23,11 @@
   "web_accessible_resources": [{
     "resources": ["src/format.js"],
     "matches": ["<all_urls>"]
-  }]
+  }],
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "ui3betatime@inclushe.com",
+      "strict_min_version": "113.0"
+    }
+  }
 }
