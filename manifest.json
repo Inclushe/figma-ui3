@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
   "name": "Enable UI3 Beta for Figma",
-  "version": "1.0.1",
-  "description": "Enables UI3 Beta for Figma for all users.",
+  "version": "1.0.2",
+  "description": "This extension enables UI3 Beta for Figma for all users, without the need to wait on the waitlist.",
   "icons": {
     "48": "icons/48x48.png"
   },
