@@ -1,5 +1,7 @@
 # Enable UI3 Beta for Figma
 
+> [!NOTE]
+> [As of October 10, 2024, all users should have access to UI3 without needing to install an extension.](https://help.figma.com/hc/en-us/articles/24919293730327-How-do-I-get-access-to-UI3-and-AI-features)
 
 **Install: [Chrome](https://chrome.google.com/webstore/detail/enable-ui3-beta-for-figma/gdjldebhilhckhblmhklofdebemiahhi) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/enable-ui3-beta-for-figma/) | [Manually](#manual-installation)**
 
